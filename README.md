@@ -1,8 +1,3 @@
-# APIAutomationFramework
-
-**Here’s a professional, structured `README.md` draft for your API Automation Framework repository. It explains the purpose, setup, usage, and contribution guidelines clearly so others can understand and use your project.**
-
----
 
 # API Automation Framework
 
