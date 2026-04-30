@@ -68,8 +68,3 @@ The framework includes GitHub Actions workflows under `.github/workflows`.
 - Tests run automatically on commits and pull requests.  
 - Results are visible in the GitHub Actions tab.
 
-
-
-✅ This README gives your project a **professional look** and makes it easier for collaborators to understand and use your framework.  
-
-Would you like me to also **add example test code snippets** (like a sample REST-assured test) to the README so new users can quickly see how to write tests in your framework?
